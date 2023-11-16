@@ -20,8 +20,8 @@ Welcome to my GitHub profile! I'm Santhosh kumar S, a machine learning developer
 
 ## 🚀 Quick Overview
 
-- 🔭 I’m currently working on [Project Name]
-- 🌱 I’m currently learning [Technology/Concept]
+- 🔭 I’m currently working on helmet and number plate using yolov8
+- 🌱 I’m currently learning Artifical intelligence and machine learning
 - 👯 I’m looking to collaborate on [Open Source Project]
 - 💬 Ask me about [Anything you're knowledgeable about]
 
