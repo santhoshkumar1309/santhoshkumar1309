@@ -50,7 +50,7 @@ Welcome to my GitHub profile! I'm Santhosh kumar S, a machine learning developer
 
 ## 📌 Pinned Repositories
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=santhoshkumar1309&repo=)](https://github.com/yourusername/project1)
+[![ReactJs](https://github-readme-stats.vercel.app/api/pin/?username=santhoshkumar1309&repo=restaurant_reservation_using_reactjs)](https://github.com/santhoshkumar1309/restaurant_reservation_using_reactjs)
 [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2)](https://github.com/yourusername/project2)
 
 ## 🎉 Let's Collaborate!
