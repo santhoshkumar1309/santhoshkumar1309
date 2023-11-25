@@ -51,7 +51,7 @@ Welcome to my GitHub profile! I'm Santhosh kumar S, a machine learning developer
 ## 📌 Pinned Repositories
 
 [![ReactJs](https://github-readme-stats.vercel.app/api/pin/?username=santhoshkumar1309&repo=restaurant_reservation_using_reactjs)](https://github.com/santhoshkumar1309/restaurant_reservation_using_reactjs)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2)](https://github.com/yourusername/project2)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=santhoshkumar1309&repo=co2_emission_prediction_using_machine_learning_algorithm)](https://github.com/santhoshkumar1309/co2_emission_prediction_using_machine_learning_algorithm)
 
 ## 🎉 Let's Collaborate!
 
