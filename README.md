@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm Santhosh kumar S, a machine learning developer
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhoshkumar1309&show_icons=true&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhoshkumar1309&show_icons=true&hide_border=true&color=black)
 
 ## 📝 Latest Blog Posts
 
